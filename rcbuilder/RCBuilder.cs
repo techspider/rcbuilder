@@ -5,7 +5,7 @@ using System.Windows.Forms;
 
 namespace rcbuilder
 {
-    static class Program
+    static class RCBuilder
     {
         /// <summary>
         /// The main entry point for the application.
